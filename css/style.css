@@ -177,3 +177,13 @@ img {
 .blue {
     border-top: 8px solid #66d9eb;
 }
+
+/*=== Preço ===*/
+
+.preco {
+    background: #f7f7f7;
+    padding: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
