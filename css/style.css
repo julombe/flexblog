@@ -201,3 +201,15 @@ img {
     text-align: center;
     margin-top: 20px;
 }
+
+.preco-item span {
+    max-width: 300px;
+    margin: 20px auto;
+    display: block;
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0 5px 0;
+    border-top: 4px solid white;
+    border-bottom: 4px solid white;
+}
