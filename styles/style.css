@@ -157,6 +157,7 @@ img {
 .produtos-item {
     flex: 1 1 175px;
     margin: 10px;
+    
 }
 
 .produtos-item h2 {
@@ -176,6 +177,7 @@ img {
 
 .blue {
     border-top: 8px solid #66d9eb;
+    
 }
 
 /*=== Preço ===*/
@@ -253,6 +255,10 @@ img {
     font-size: 2.25em;
     padding: 15px 0;
     text-align: center;
+}
+
+.preco-item a:hover {
+    transform: scale(1.1);
 }
 
 @media (max-width: 800px) {
