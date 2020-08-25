@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by José Ulombe" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
   <a href="LICENSE" >
@@ -20,6 +20,8 @@
 
 </p>
 
+
+
 <p align="center">
   <a href="#file_cabinet-materiais">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,7 +29,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<img src="https://ik.imagekit.io/jlzh3neixu/print_foodfy_qKFcOGhWYEm.png">
+<img src="https://ik.imagekit.io/jlzh3neixu/20200825_180325_fcuzWdGCe.gif">
 
 ## :file_cabinet: Ferramentas Utilizadas
 
