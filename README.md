@@ -29,7 +29,9 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<h1>
 <img src="https://ik.imagekit.io/jlzh3neixu/20200825_180325_fcuzWdGCe.gif">
+</h1>
 
 ## :file_cabinet: Ferramentas Utilizadas
 
