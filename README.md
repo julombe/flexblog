@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafios Módulo 2 - Iniciando no Front-end
+  Site para praticar os conceitos sobre flexbox
 </h3>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+    <img alt="Made by José Ulombe" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
   </a>
 
   <a href="LICENSE" >
