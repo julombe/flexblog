@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="demo" src="https://ik.imagekit.io/jlzh3neixu/flexblog_XoVf0-acVe.gif" />
+    <img src="https://ik.imagekit.io/jlzh3neixu/flexblog_XoVf0-acVe.gif" />
 </h1>
 
 ## :file_cabinet: Ferramentas Utilizadas
