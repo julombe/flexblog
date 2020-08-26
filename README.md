@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align= "center">
-<img src="https://ik.imagekit.io/jlzh3neixu/20200825_180325_fcuzWdGCe.gif">
+<img alt="video" src="https://ik.imagekit.io/jlzh3neixu/20200825_180325_fcuzWdGCe.gif" />
 </h1>
 
 ## :file_cabinet: Ferramentas Utilizadas
