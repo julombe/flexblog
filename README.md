@@ -2,8 +2,8 @@
     <img alt="FlexBlog" src="https://ik.imagekit.io/jlzh3neixu/flexblog_01hnbOVdygs.png" />
 </h1>
 
-<h1 align= "center">
-<img alt="demo" src="https://ik.imagekit.io/jlzh3neixu/20200825_180325_fcuzWdGCe.gif" />
+<h1 align="center">
+    <img alt="demo" src="https://ik.imagekit.io/jlzh3neixu/20200609_175304_kcnafhnqu.gif" />
 </h1>
 
 ## :file_cabinet: Ferramentas Utilizadas
