@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="FlexBlog" src="https://ik.imagekit.io/jlzh3neixu/flexblog_01hnbOVdygs.png" width="400px" />
+    <img alt="FlexBlog" src="https://ik.imagekit.io/jlzh3neixu/flexblog_01hnbOVdygs.png" />
 </h1>
 
 <h1 align= "center">
