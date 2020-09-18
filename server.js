@@ -3,6 +3,9 @@ const nunjucks = require('nunjucks')
 
 const server = express()
 
+//Using CSS
+server.use(express.static('public'))
+
 
 
 //configuring template engine
@@ -15,7 +18,7 @@ nunjucks.configure("views", {
 
 //adding routes
 server.get("/", function(req, res) {
-    return res.send("Hi")
+    return res.render("index")
 })
 
 
