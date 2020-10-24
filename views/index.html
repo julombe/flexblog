@@ -7,9 +7,9 @@
       href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles/style.css" />
-    <link rel="stylesheet" href="styles/modal.css" />
-    <title>Document</title>
+    <link rel="stylesheet" href="/styles/style.css" />
+    <link rel="stylesheet" href="/styles/modal.css" />
+    <title>FlexBlog</title>
   </head>
   <body>
     <div class="superinfo-bg">
@@ -185,6 +185,7 @@
       <p>FlexBlog © Todos os direitos reservados.</p>
     </footer>
 
+
     
     <div id="modal-promocao" class="modal-container">
         <div class="modal">
@@ -198,5 +199,22 @@
         </div>
 
     </div>
+
+   <!---- <script>
+	
+  function iniciaModal(modalID) {
+  const modal = document.getElementById(modalID)
+  modal.classList.add('mostrar')
+  modal.addEventListener('click', (event) => {
+    if(event.target.id == modalID || event.target.className == 'fechar') {
+      modal.classList.remove('mostrar')
+    }
+  })
+}
+iniciaModal('modal-promocao')
+      
+      </script>-->
+
+   <script src="/public/modal.js"></script>
   </body>
 </html>
