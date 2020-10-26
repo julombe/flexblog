@@ -5,8 +5,11 @@ function iniciaModal(modalID) {
     modal.addEventListener('click', (event) => {
       if(event.target.id == modalID || event.target.className == 'fechar') {
         modal.classList.remove('mostrar')
+
       }
+
     })
-   
   }
   iniciaModal('modal-promocao')
+
+  
