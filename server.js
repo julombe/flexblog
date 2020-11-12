@@ -16,10 +16,6 @@ nunjucks.configure("views", {
 
 
 
-//adding routes
-server.get("/", function(req, res) {
-    return res.render("index")
-})
 
 
 
