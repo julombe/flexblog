@@ -1,10 +1,13 @@
 const express = require('express')
 const nunjucks = require('nunjucks')
+const routes = require("./routes")
 
 const server = express()
 
+
 //Using CSS
 server.use(express.static('public'))
+server.use(routes)
 
 
 

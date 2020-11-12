@@ -3,7 +3,7 @@ const routes = express.Router()
 
 
 //adding routes
-server.get("/", function(req, res) {
+routes.get("/", function(req, res) {
     return res.render("index")
 })
 
