@@ -18,18 +18,6 @@ nunjucks.configure("views", {
 })
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 //starting server
 
 server.listen(3000, function() {
